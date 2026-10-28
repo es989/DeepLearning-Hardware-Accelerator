@@ -1,0 +1,11 @@
+# C build output
+C_Simulation/build/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Editors / OS
+.vscode/
+Thumbs.db
